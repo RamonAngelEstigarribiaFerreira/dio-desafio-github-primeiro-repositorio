@@ -1,0 +1,3 @@
+Chave SSHA: é uma forma segura de estabelecer uma conexão segura e incriptada entre 2 máquinas ( servidor do GitHub e a configuração da nossa máquina com uma máquina confiável do GiHub) estabelecendo essa conexão com duas chaves, uma pública e a outra privada.
+
+Segunda forma de autenticação segura são os Tokens de acesso pessoal.

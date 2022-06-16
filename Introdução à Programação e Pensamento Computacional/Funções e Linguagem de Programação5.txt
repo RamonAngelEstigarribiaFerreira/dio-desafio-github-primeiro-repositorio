@@ -1,0 +1,32 @@
+O que são funções?
+"As funções, ou sub-rotinas são blocos de instruções que realizam tarefas específicas"
+"São blocos de instruções (código), identificadas por nomes e parâmetros"
+
+Linguagem de programação
+Código fonte:
+-Tradução: geração do programa objeto e execução dela.
+-Interpretação: o programa fonte é executado diretamente.
+
+Características de um programa
+-Legibilidade
+-Redigibilidade
+-Confiabilidade
+-Custo
+
+Análise de código
+-Lexical analyser (análise léxica), paticionar; classificar; eliminar.
+-Sintax analyser (análise sintática), a forma.
+-Semantic analyser (análise semántica), estudo de significados.
+
+Paradigmas de programas
+Clasificação:
+-Orientação a objeto: possui atributo, comportamento e estado. Ele é análogo ao mundo real
+EX de linguagem: O PYTHON
+
+-Procedural
+-Funcional
+-Computação distribuida
+-Lógico
+-Estruturado: mais intuitivo, utilizado para resover probleas simples e direto e aprender computação
+Conceito: Secuencia, Decisão, Iteração
+Ex de linguagem: C

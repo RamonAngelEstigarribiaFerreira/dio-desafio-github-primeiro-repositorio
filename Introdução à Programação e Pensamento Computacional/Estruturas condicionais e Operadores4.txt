@@ -1,0 +1,9 @@
+Estrutura condicional:
+-Simples
+-Composta
+-Encadeada
+
+Operadores lógicos:
+-And
+-Or
+-Not

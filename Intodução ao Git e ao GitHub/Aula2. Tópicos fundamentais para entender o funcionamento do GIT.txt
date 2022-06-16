@@ -1,0 +1,16 @@
+A sigla SHA significa Secure Hash Algorithm (Algoritmo de Hash Seguro), é um conjunto de funções hash criptográficas projetadas pela NSA (Agência de Segurança  Nacional do EUA).
+Então o SHA1 é um algoritmo de criptação.
+A encriptação gera um conjunto de carateres indentificador de 40 dígitos.
+Em outras palavras, o "SHA1" não é nada mais do que uma forma curta de representar um arquivo, o estado dela
+
+Objetos internos do GIT
+Objetos fundamentais do GIT responsaveis pelo versionamento do nosso código:
+-Blobs: só guarda o SHA1 desse arquivo
+-Trees: árvores que armacena blobs, vai ser responsável por montar toda a estrutura e onde está localizado os arquivos
+A árvores guarda o nome do arquivo
+-Commits: é o objeto que vai juntar tudo, que vai dar sentido para as alterações. Também posuem o sha1. O commit é único para cada autor
+
+O GIT é um sistema distribuido seguro?
+Sim. Porque o código, o repositório que se tem hosteado em um servidor, na nuvem (GITHUB) então, o código que se tem lá representa o estado final do código, do software, é a versão mais recente, mais atualizada.
+Supondo que esse repositorio pussua 30 ou 40 pessoas contribuindo com ele e supondo que na máquina dessas pessoas tambem exista uma versão desse código. Então, pelo fato dos commits serem tão dificeis de serem alterados ou até impossivel.
+Assim, tanto a versão mais recente que está na máquina do servidor como qualquer das 40 versões que estão distribuidos entre as outras máquinasém são versões confiaveis.

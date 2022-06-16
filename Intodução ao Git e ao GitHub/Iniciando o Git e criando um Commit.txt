@@ -1,0 +1,16 @@
+-git init > para poder iniciar o repositório do GIT, ou seja, cria-se um repositorio.
+-git add > para mover arquivos e dar inicio ao vercionamento de código.
+-git commit > para criar o primeiro commit.
+
+Para ver pastas ocultas gerencias do Git usaremos uma "flag" específica no comando "ls", que é o: "-a"
+
+O Markdow md é uma forma mais humana de se escrever um arquivo HTML sem precisar entender como que o HTML funciona de fato.
+
+O git status vai ajudar a gente a monitoarr os status dos arquivos.
+
+Utiliza-se do comando "mv" para mover um arquivo ("git restore --staged" to unstage)
+
+"git commit -m" para criar um commit.
+
+"git add * ou ." ele pega tudo o que foi modificado, que está no diretório do trabalho e adiciona para o "staged", para podermos commitar. 
+

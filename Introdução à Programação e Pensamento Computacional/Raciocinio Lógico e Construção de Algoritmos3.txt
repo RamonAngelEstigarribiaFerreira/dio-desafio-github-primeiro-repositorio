@@ -1,0 +1,7 @@
+Raciocinio Lógigo
+Clasificação: Indução, Dedução e Abdução.
+
+Construção de Algoritmos:
+-Narrativa: utilização de uma linguagem natural.
+-Fluxograma: utilização de símbolos pre-definidos.
+-Pseudocódigo: PORTUGOL, com regras definidas e os passos a serem seguidos

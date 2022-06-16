@@ -1,0 +1,17 @@
+O que é lógica?
+Lógica é "organização e planejamento de instruções, assertivas em um algoritmo, a fim de viabilizar a implantação de um programa"
+
+Técnica de lógica de programação:
+-Linear
+-Estruturada
+-Modular
+
+Fundamentos de algoritmos
+Tipologías e variáveis:
+Variável é uma estrutura mutável, possui variações incertas, inconstantes, instável.
+Variável pode assumir qualquer um dos valores de um determinado conjunto de valores
+
+Tipos de dados
+-Numéricos: que podem ser inteiros ou reais.
+-Caracteres
+-Lógicos: booleano, asumindo números verdadeiros que é igual a 1 e número falso que é igual a 0

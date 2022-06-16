@@ -1,0 +1,13 @@
+Pensamento Computacional: é baseado em 4 Pilares
+
+- Descomposição: divivir um problema complexo em subproblemas.
+Estrategia; a análise: o processo de quebrar e determinar partes menores e gerenciáveis.
+A outra é a síntesis, combinar os elementos recompondo o problema original.
+
+- Reconhecimento de padrões: identificar padrões ou tendencias.
+Posui uma abordagem de extração de características e a classificação dos dados.
+
+- Abstração: extrapolar o conceito do problema para uma forma generalista, ou seja abstração é igual a generalizar
+
+- Design de algoritmos: automatizar, ou seja definir passo a passo a solução do problema.
+Os Algoritmos são instruções executadas passo a passo para concluir uma determinada tarefa.
